@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">historias</string>
+
+    <string name="text1">Isto é uma batata...</string>
+    <string name="text2">este é o sr batata...</string>
+    <string name="text3">Esta é a sra batata...</string>
+    <string name="text4">aqui está o batata filho do sr batata e
+        sra batata nascendo...</string>
+    <string name="text5">O batata era feliz...</string>
+    <string name="text6">O batata não gostava de estudar mas...</string>
+    <string name="text7">O batata Conseguiu virar cantor</string>
+    <string name="text8">aqui esta a musica do batata</string>
+
+</resources>
